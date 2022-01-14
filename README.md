@@ -30,7 +30,9 @@ const table = new Table('#table1', {
 });
 
 const table = new Table('#table1', {
-    // Custom class application. this can be used together with bootstrap options as well where customClasses will overwrite bootstrap
+    // Custom class application. 
+    // this can be used together with bootstrap options as well. 
+    // customClasses will overwrite bootstrap
     customClass: 'table-custom'
 });
 ```
